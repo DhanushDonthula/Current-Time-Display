@@ -1,2 +1,2 @@
 # Current-Time-Display
-Current Time Displays of Selected Countries
+Current Time Displays of Selected Country
